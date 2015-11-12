@@ -1,0 +1,22 @@
+{
+  "name": "LinedUp CLI",
+  "version": "0.0.1",
+  "description": "Create new entries to LinedUp from the command line.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevingimbel/LinedUp-CLI"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Gimbel <http://kevingimbel.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "linedup-cli": "index.js"
+  },
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "mongoose": "^4.2.2"
+  }
+}
