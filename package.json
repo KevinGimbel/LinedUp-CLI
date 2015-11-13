@@ -1,5 +1,5 @@
 {
-  "name": "LinedUp CLI",
+  "name": "linedup-cli",
   "version": "0.0.1",
   "description": "Create new entries to LinedUp from the command line.",
   "repository": {
